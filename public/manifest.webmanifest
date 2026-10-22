@@ -1,0 +1,15 @@
+{
+  "name": "Hiperfocus",
+  "short_name": "Hiperfocus",
+  "description": "Textos e ilustrações personalizados a partir dos seus interesses.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f8fe",
+  "theme_color": "#1d3a70",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
